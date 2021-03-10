@@ -1,4 +1,4 @@
-# flappyBirdWristEdition
+# Flappy Bird Wrist Edition (Apple Watch Only App)
 
 Beloved game Flappy Bird now playable on Apple Watch!
 
