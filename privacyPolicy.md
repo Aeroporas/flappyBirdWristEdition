@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Pichugin Dmitriy built the Flappy Bird Wrist Edition app as a Free app. This SERVICE is provided by Pichugin Dmitriy at no cost and is intended for use as is.
+Pichugin Dmitriy built the Flappy Chick: Bird on Wrist app as a Free app. This SERVICE is provided by Pichugin Dmitriy at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
