@@ -2,9 +2,11 @@
 
 Beloved game now playable on Apple Watch!
 
-![Simulator Screen Shot - Apple Watch Series 6 - 44mm - 2021-03-10 at 00 12 57](https://user-images.githubusercontent.com/21102640/110602558-2d995380-8197-11eb-8d16-30a6641a63a7.png)
-![Simulator Screen Shot - Apple Watch Series 6 - 44mm - 2021-03-10 at 00 13 08](https://user-images.githubusercontent.com/21102640/110602559-2eca8080-8197-11eb-8278-8967bc427c04.png)
-![Simulator Screen Shot - Apple Watch Series 6 - 44mm - 2021-03-10 at 00 13 31](https://user-images.githubusercontent.com/21102640/110602560-2eca8080-8197-11eb-8373-ea6798a15e21.png)
+![Simulator Screen Shot - Apple Watch Series 7 - 45mm - 2021-11-27 at 20 05 22](https://user-images.githubusercontent.com/21102640/144560255-4c23169c-7927-4c46-81f5-8c08acb2d2a2.png)
+![Simulator Screen Shot - Apple Watch Series 7 - 45mm - 2021-11-27 at 20 05 25](https://user-images.githubusercontent.com/21102640/144560256-d01be1b2-68c6-4b64-a639-443f09be353c.png)
+![Simulator Screen Shot - Apple Watch Series 7 - 45mm - 2021-11-27 at 20 05 43](https://user-images.githubusercontent.com/21102640/144560259-18e9dfef-f8df-475d-b689-438ced2f7193.png)
+![Simulator Screen Shot - Apple Watch Series 7 - 45mm - 2021-11-27 at 20 07 08](https://user-images.githubusercontent.com/21102640/144560261-2fc88425-1597-4473-804e-85a79c9f9d01.png)
+
 
 Download from App Store now.
 https://apps.apple.com/app/id1557553969
