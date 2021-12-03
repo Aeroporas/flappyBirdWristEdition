@@ -10,5 +10,5 @@ App utilizes freemium model with timed paywall between game sets.
 ![Simulator Screen Shot - Apple Watch Series 7 - 45mm - 2021-11-27 at 20 07 08](https://user-images.githubusercontent.com/21102640/144560261-2fc88425-1597-4473-804e-85a79c9f9d01.png)
 
 
-Download from App Store now.
+Download from App Store now
 https://apps.apple.com/app/id1557553969
