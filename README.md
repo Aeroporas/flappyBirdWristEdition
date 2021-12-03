@@ -7,3 +7,4 @@ Beloved game now playable on Apple Watch!
 ![Simulator Screen Shot - Apple Watch Series 6 - 44mm - 2021-03-10 at 00 13 31](https://user-images.githubusercontent.com/21102640/110602560-2eca8080-8197-11eb-8373-ea6798a15e21.png)
 
 Download from App Store now.
+https://apps.apple.com/app/id1557553969
